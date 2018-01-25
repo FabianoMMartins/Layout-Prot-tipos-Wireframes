@@ -1,0 +1,270 @@
+/*INDEX*/
+header{
+    color:#FFF;	
+}
+.topo
+{
+	height:25px;
+	background:#4c7fb9;
+}
+.txt_topo
+{
+	padding:2px;
+	font-weight:700;
+}
+
+.logo
+{
+	width: 120px;
+    height: 70px;
+    margin: 0 auto;
+}
+.logo img
+{
+	
+}
+
+.banner
+{
+	height:440px;
+	background-image:url(../img/fundo.png);
+}
+
+.banner h1
+{
+  padding-top:100px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;	
+}
+
+.banner p
+{
+	color: #ffffff;
+	text-align: center;
+}
+
+.conteudo
+{
+	height:auto;
+	
+}
+.novidades
+{
+	height:550px;
+	
+}
+
+.novidade_banner
+{
+	height:auto;
+	
+}
+
+.novidade_banner img
+{
+	padding-left:10px;
+	padding-bottom:10px;
+}
+
+.novidade_banner h2
+{
+  padding:20px;
+  font-size: 20px;
+  text-transform:uppercase;
+  font-weight: bold;
+  color: #000000;
+}
+
+
+.novidade_texto
+{
+	padding:10px;
+	height:auto;
+}
+
+.novidade_texto h2
+{
+	color:#090;
+	font-size:medium;
+	padding-top:80px;
+	margin-left:10px;
+}
+
+.novidade_texto h3
+{
+	font-size:small;
+	margin-left:10px;
+	text-transform:uppercase;
+	font-weight:700;
+	color:#4c7fb9;
+}
+
+.novidade_texto p
+{
+	font-size:small;
+	text-align:justify;
+	margin-left:10px;
+}
+.noticias
+{
+	height:800px;
+	
+}
+.artigo1
+{
+
+	height:auto;
+}
+
+.artigo1 p
+{
+	margin-left:10px;
+}
+
+.artigo1 img
+{
+	padding:10px;
+}
+
+.institutos
+{
+	height:600px;
+	background-color:#4d7fb9;
+}
+
+.institutos .video1
+{
+   float:left;
+   margin-top:50px;
+   
+
+}
+.institutos h3
+{
+	text-align:left;
+    color:#FC6;
+	font-weight:700;
+}
+
+.institutos p
+{
+	color:#FFF;
+}
+
+.institutos .video2
+{
+   float:right;
+   margin-top:50px;
+
+}
+.portal_vagas
+{
+	height:500px;
+}
+.portal_vagas h2
+{
+	font-size:28px;
+	font-weight:bold;
+	text-align:center;
+	margin-top:50px;
+	color:#4d7fb9;
+}
+.portal_vagas img
+{
+	padding-top:50px;
+	margin:0 auto;
+}
+
+.portal_vagas p
+{
+	margin-top:30px;
+	text-align:center;
+}
+.portal_vagas .titulo_vagas
+{
+	font-size:18px;
+	font-weight:bold;
+	color:#5fa092;
+}
+
+.quemfazenem
+{
+	height:300px;
+	
+}
+.quemfazenem h3
+{
+   text-align:center;
+   font-weight:bold;
+   color:#4d7fb9;
+}
+
+.quemfazenem img
+{
+	margin:0 auto;
+	padding-top:50px;
+}
+
+.quemfazenem p
+{
+	text-align:center;
+	padding-top:20px;
+	color:#999;
+}
+
+.rodape
+{
+	clear:both;
+	height:320px;
+	background-color:#000;
+}
+
+.rodape p
+{
+	padding-top:7%;
+	padding-left:20%;
+	padding-right:20%;
+	text-align:justify;
+	color:#FFF;
+	
+}
+
+.rodape span
+{
+	color:#FC3;
+}
+/*FIM INDEX*/
+
+
+
+/*DETALHES*/
+.conteudo_sobre
+{
+	height:auto;
+}
+.conteudo_sobre h1
+{
+	font-size:30px;
+	font-weight:700;
+	text-align:center;
+	color:#27a092;
+}
+
+.conteudo_sobre p
+{
+	text-align:center;
+}
+.conteudo_noticias_sobre
+{
+	padding-top:20px;
+}
+.conteudo_esquerdo h2
+{
+	font-size:24px;
+	text-transform:uppercase;
+	color:#247fbb;
+	font-weight:bold;
+}
+
+/*FIM DETALHES*/
